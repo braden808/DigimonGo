@@ -1,7 +1,38 @@
 .logo {
-	float: left;
+	float: top left;
 }
 
 .title {
 	
+}
+
+h1 h2 h3 {
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+body {
+	font-family: 'Lato', sans-serif;
+}
+
+.hero {
+	background-color: #0066CC;
+	margin-top: 100px;
+	border: 1px solid #000;
+	height: 500px;
+	background-image: url('../assets/hero.png');
+	background-repeat: no-repeat;
+	background-position: center right;
+}
+
+.inner {
+	padding-top: 50px;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 50px;
+	background-color: white;
+	border: 1px solid #000;
+	float: left;
+	margin-top: 150px;
+	margin-left: 100px;
+
 }
