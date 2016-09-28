@@ -7,7 +7,7 @@
 }
 
 h1 h2 h3 {
-	font-family: 'Open Sans Condensed', sans-serif;
+	font-family: 'Sarpanch', sans-serif;
 }
 
 body {
@@ -35,4 +35,29 @@ body {
 	margin-top: 150px;
 	margin-left: 100px;
 
+}
+
+.box {
+	background-color: #0066CC;
+	margin-top: 100px;
+	border: 1px solid #000;
+}
+
+.left .middle .right {
+	background-color: #0066CC;
+	margin-top: 100px;
+	border: 1px solid #000;
+	
+}
+
+.left {
+	float: left;
+}
+
+.middle {
+	float: middle
+}
+
+.right {
+	float: right
 }
